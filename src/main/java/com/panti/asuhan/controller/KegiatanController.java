@@ -18,7 +18,7 @@ import java.util.Date;
 import java.util.Map;
 
 @RestController
-@RequestMapping("/smpn1bergas/api/kegiatan")
+@RequestMapping("/pantiasuhan/api/kegiatan")
 @CrossOrigin(origins = "*")
 public class KegiatanController {
     @Autowired

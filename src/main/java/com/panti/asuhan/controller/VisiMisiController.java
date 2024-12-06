@@ -15,7 +15,7 @@ import java.sql.SQLException;
 import java.util.Map;
 
 @RestController
-@RequestMapping("/smpn1bergas/api/visiMisi")
+@RequestMapping("/pantiasuhan/api/visiMisi")
 @CrossOrigin(origins = "*")
 public class VisiMisiController {
     @Autowired
